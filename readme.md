@@ -197,3 +197,5 @@ Barcode Generation Class Copyright:
 Nicola Asuni   
 Tecnick.com LTD   
 www.tecnick.com   
+
+# Just testing kisglaci
